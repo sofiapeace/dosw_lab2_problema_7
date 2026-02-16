@@ -1,4 +1,4 @@
-![Captura](./imagen/reto7sol.png) 
+![Captura](./imagenes/reto7sol.png) 
 ![estructura](imagenes/estr.png)
 ![spring](imagenes/spring.png)
  
