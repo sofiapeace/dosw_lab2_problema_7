@@ -1,5 +1,6 @@
-<img width="1542" height="942" alt="reto7sol" src="https://github.com/user-attachments/assets/baa35b3a-67a6-4195-8877-1b17e277ae2e" />
-
+![Captura](./imagen/reto7sol.png) 
+![estructura](imagenes/estr.png)
+![spring](imagenes/spring.png)
  
  **Descripción del Problema**
  Has comprado un control remoto mágico que permite al usuario ejecutar acciones sobre varios dispositivos del hogar: luces, puertas, música y persianas. Cada acción puede tener parámetros específicos y puede ser deshecha después de ejecutarse. Alguien ha desconfigurado los electrodomésticos del hogar y tu tarea es usar el control para probar, ejecutar y deshacer acciones, para finalmente descubrir quién desconfiguró cada aparato.
@@ -12,4 +13,3 @@
   1.  Se definió una interfaz Command con métodos para ejecutar y deshacer acciones.
   2.  Se crearon comandos concretos para cada dispositivo (Luz, Puerta, Música, Persiana) que encapsulan la lógica de negocio.
   3.  Se implementó un historial que almacena objetos de comando junto con el nombre del usuario, permitiendo revertir el estado del electrodoméstico y generar estadísticas finales sobre quién realizó cada alteración.
-
